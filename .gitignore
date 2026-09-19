@@ -1,7 +1,10 @@
 .vscode/
 
 # Ignore virtual environment folder
-Product_Review_Analysis/
+.venv/
+
+# Ignore local virtual environment aliases
+venv/
 
 # Streamlit cache
 .streamlit/

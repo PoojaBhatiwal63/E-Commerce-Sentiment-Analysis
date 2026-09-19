@@ -10,7 +10,7 @@ from wordcloud import WordCloud
 # -----------------------------------
 
 st.set_page_config(
-    page_title="AI Sentiment Analyzer",
+    page_title="E-Commerce Sentiment Analysis",
     page_icon="🛍️",
     layout="centered"
 )
@@ -42,7 +42,10 @@ This project uses:
 # Main Title
 # -----------------------------------
 
-st.title("🛍️ AI-Powered Product Review Sentiment Analysis")
+st.markdown(
+    "<h1 style='text-align: center;'>🛍️ AI-Powered Product Review<br>Sentiment Analysis</h1>",
+    unsafe_allow_html=True
+)
 
 st.markdown("""
 Analyze customer reviews using Machine Learning and Natural Language Processing.
