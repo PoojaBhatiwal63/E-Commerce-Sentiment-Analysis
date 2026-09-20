@@ -10,12 +10,6 @@ Built using:
 
 ---
 
-# 🚀 Live Demo
-
-[Streamlit App](YOUR_STREAMLIT_LINK_HERE)
-
----
-
 # 📌 Project Overview
 
 This project performs sentiment analysis on Amazon product reviews using Natural Language Processing and Machine Learning techniques.
